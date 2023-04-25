@@ -1,5 +1,5 @@
 import.java.util.Scanner
-class Stringmain
+class Stringmain22
 {
 public static void main(String[]args)
 {
